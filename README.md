@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **TechBlog**
 
-- 🌱 I’m currently learning **React JS, Node JS**
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **Java, Python, JavaScript, Django, C, C++**
 
